@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "About me\n\n\ndingjun\n at github.com\n\n\nProjects\n\n\ngdns\n\n\ngdns\n\nis a dns proxy server, much like dnsmasq, it can run on windows\n\n\nFeatures\n\n\n\n\n\n\nsupport different domains use different upstream dns servers\n\n\n\n\n\n\nsupport use tcp or udp to contact to upstream dns server\n\n\n\n\n\n\nsupport blacklist to block the fake ip\n\n\n\n\n\n\nchnroutes\n\n\nchnroutes\n\nis my fork of \nchnroutes\n\n\nFeatures\n\n\n\n\nuse netsh to save the time for import the route on windows, this will save time from 120s to 3s\n\n\nuse \nip --batch\n instead of \nroute\n to save the time for import the route on linux\n\n\n\n\nhttp proxy\n\n\nhttp proxy\n\nis a generic http proxy handler write by go, it makes the server act as a standard proxy server and as a normal http server at the same time\n\n\nIf you use this handler as the https handler, your server support https and http proxy over tls (like https_port in squid)", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#about-me", 
+            "text": "dingjun  at github.com", 
+            "title": "About me"
+        }, 
+        {
+            "location": "/#projects", 
+            "text": "gdns  gdns \nis a dns proxy server, much like dnsmasq, it can run on windows  Features    support different domains use different upstream dns servers    support use tcp or udp to contact to upstream dns server    support blacklist to block the fake ip    chnroutes  chnroutes \nis my fork of  chnroutes  Features   use netsh to save the time for import the route on windows, this will save time from 120s to 3s  use  ip --batch  instead of  route  to save the time for import the route on linux   http proxy  http proxy \nis a generic http proxy handler write by go, it makes the server act as a standard proxy server and as a normal http server at the same time  If you use this handler as the https handler, your server support https and http proxy over tls (like https_port in squid)", 
+            "title": "Projects"
+        }
+    ]
+}
